@@ -1,0 +1,15 @@
+/Users/adam/Desktop/SortAList/bin/Debug/net5.0/SortAList.deps.json
+/Users/adam/Desktop/SortAList/bin/Debug/net5.0/SortAList.runtimeconfig.json
+/Users/adam/Desktop/SortAList/bin/Debug/net5.0/SortAList.runtimeconfig.dev.json
+/Users/adam/Desktop/SortAList/bin/Debug/net5.0/SortAList.dll
+/Users/adam/Desktop/SortAList/bin/Debug/net5.0/ref/SortAList.dll
+/Users/adam/Desktop/SortAList/bin/Debug/net5.0/SortAList.pdb
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.csprojAssemblyReference.cache
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.AssemblyInfoInputs.cache
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.AssemblyInfo.cs
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.dll
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/ref/SortAList.dll
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.pdb
+/Users/adam/Desktop/SortAList/obj/Debug/net5.0/SortAList.genruntimeconfig.cache
